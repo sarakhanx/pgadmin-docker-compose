@@ -1,2 +1,2 @@
-./pgadmin_data/*
-./posgres_data/*
+pgadmin_data/
+posgres_data/
